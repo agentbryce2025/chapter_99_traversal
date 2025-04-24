@@ -8,7 +8,7 @@ The data was scraped from: https://hts.usitc.gov/reststop/getChapterNotes?doc=99
 
 ## File Structure
 
-The CSV file `chapter99.csv` contains the hierarchical structure of Chapter 99 with the following columns:
+The CSV file `manual_chapter99.csv` contains the hierarchical structure of Chapter 99 with the following columns:
 
 1. Column 1: Chapter/Subchapter level
 2. Column 2: Section level (US, Statistical, NOTICE)
