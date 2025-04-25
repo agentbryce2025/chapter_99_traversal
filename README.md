@@ -9,7 +9,8 @@ The data was scraped from: https://hts.usitc.gov/reststop/getChapterNotes?doc=99
 ## Files
 
 - `manual_chapter99.csv` - Contains a sample of the hierarchical structure
-- `manual_complete_chapter99.csv` - Contains the complete Chapter 99 data in hierarchical structure
+- `manual_complete_chapter99.csv` - Contains a partial hierarchical structure
+- `fulltext_chapter99.csv` - Contains the COMPLETE Chapter 99 data with proper hierarchical structure
 
 ## File Structure
 
